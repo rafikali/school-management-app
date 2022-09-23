@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663817032268",
+    "firebase_url": "https://biometricattendencesystem-default-rtdb.firebaseio.com",
+    "project_id": "biometricattendencesystem",
+    "storage_bucket": "biometricattendencesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663817032268:android:4085bb5ffb8871c600dae9",
+        "android_client_info": {
+          "package_name": "com.attendance.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663817032268-0bul3440uo0vlr2v88ooml3rbnok94kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAInJTI7C5dUd2MpcT8EaTVDqpzOFn9YT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663817032268-0bul3440uo0vlr2v88ooml3rbnok94kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
